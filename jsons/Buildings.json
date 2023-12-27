@@ -2,10 +2,9 @@
 	{
 		"name": "Goddess Palace",
 		"faith": 5,
-		"culture": 2,
-		"production": 2,
-		"cost": 1,
+		"unique": "
 		"isWonder": true,
+		"requiredTech": "Theology",
 	},
 	{
 		"name": "Tellempt",
