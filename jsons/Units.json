@@ -3,7 +3,7 @@
 		"name": "Holy Volva",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"replaces": "Longsword",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
@@ -13,5 +13,17 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Himon's",
+		"replaces": "Inquisitor",
+		"uniqueTo": "Sactumaria",
+		"unitType": "Civilian",
+		"uniques": ["Prevents spreading of religion to the city it is next to",
+			"Can remove other religions from cities <in [Friendly] tiles> <twice>",
+            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
+		],
+		"movement": 5
 	}
 ]
