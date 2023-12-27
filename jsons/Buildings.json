@@ -2,7 +2,7 @@
 	{
 		"name": "Goddess Palace",
 		"faith": 5,
-		"unique": ["Free [Great Prophet] appears", "Gain a free [Monastery] [in this city]", "Hidden when religion is disabled"],
+		"uniques": ["Free [Great Prophet] appears", "Gain a free [Monastery] [in this city]", "Hidden when religion is disabled"],
 		"percentStatBonus": {"faith": 22},
 		"isWonder": true,
 		"requiredTech": "Theology",
