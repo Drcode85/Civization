@@ -1,11 +1,12 @@
 [
 	{
 		"name": "Cult of Azivzameki",
-		"faith": 8,
+		"faith": 2,
 		"culture": 2,
 		"production": 2,
 		"cost": 1,
 		"uniqueTo": "Sactumaria",
+		"uniques": ["[+3 Faith] [in this city] <after founding a pantheon>", "[+3 Faith] [in this city] <after founding a religion>"]
 		"isNationalWonder": true,
 	},
 	{
