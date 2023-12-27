@@ -14,18 +14,18 @@
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralHello": "God bless you",
+		"neutralLetsHearIt": ["Yes?","Yes tell what you purpose.","My ear is open to listen."],
+		"neutralNo": ["We going to reject it.","I'm sorry but I must refuse ","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What sinner doing here",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "All this fight just cost more suffering",
+		"tradeRequest": "We bestow you our gift for god",
 
 		"outerColor": [110,110,110],
 		"innerColor": [255,255,255],
