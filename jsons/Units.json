@@ -5,8 +5,8 @@
 		"uniqueTo": "Sactumaria",
 		"unitType": "Civilian",
 		"uniques": ["Prevents spreading of religion to the city it is next to",
-			"Can remove other religions from cities <in [Friendly] tiles> <twice> <after which this unit is consumed>",
-            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"Can remove Foreign religions from cities <in [Friendly] tiles> <twice>",
+            "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]",
 			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
 		],
 		"movement": 5
