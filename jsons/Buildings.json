@@ -6,7 +6,7 @@
 		"production": 2,
 		"cost": 1,
 		"uniqueTo": "Sactumaria",
-		"uniques": ["[+3 Faith] [in this city] <after founding a pantheon>", "[+3 Faith] [in this city] <after founding a religion>"]
+		"uniques": "[+5 Faith] [in this city] <after founding a religion>",
 		"isNationalWonder": true,
 	},
 	{
