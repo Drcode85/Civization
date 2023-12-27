@@ -29,7 +29,7 @@
 
 		"outerColor": [110,110,110],
 		"innerColor": [255,255,255],
-		"uniqueName": "Holiness Palace"
+		"uniqueName": "Holiness Palace",
 		"uniques": ["Gain a free [Shrine] [in all cities]", "[+75]% Natural religion spread [in all cities]"],
 		"cities": ["Pomari","Furima","S'viona","Asanti","Ashtown","Wicting","Wiliman","Sinova","Kilama",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
