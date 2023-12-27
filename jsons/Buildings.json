@@ -16,7 +16,7 @@
 		"faith": 3,
 		"culture": 2,
 		"replaces": "Temple",
-		"uniqueTo": "Sact",
+		"uniqueTo": "Sactumaria",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
