@@ -9,8 +9,8 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredTech": "Steel",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	},
