@@ -20,6 +20,6 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "[+2 Faith] [in this city] <after found religion>"]
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "[+2 Faith] [in this city] <after founding a religion>"]
 	}
 ]
