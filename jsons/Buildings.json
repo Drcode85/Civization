@@ -2,7 +2,7 @@
 	{
 		"name": "Goddess Palace",
 		"faith": 5,
-		"unique": "[2] free [Missionary] units appear",
+		"unique": ["[2] free [Missionary] units appear", "Hidden when religion is disabled"],
 		"percentStatBonus": {"faith": 22},
 		"isWonder": true,
 		"requiredTech": "Theology",
