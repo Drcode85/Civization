@@ -4,6 +4,8 @@
 		"faith": 8,
 		"culture": 2,
 		"production": 2,
+		"cost": 1,
+		"uniqueTo": "Sactumaria",
 		"isNationalWonder": true,
 	},
 	{
