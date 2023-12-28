@@ -1,4 +1,4 @@
-[
+o[
 	{
 		"name": "Sactumaria",
 		"leaderName": "Zareal Sanctus XIII",
@@ -30,7 +30,7 @@
 		"outerColor": [110,110,110],
 		"innerColor": [255,255,255],
 		"uniqueName": "Holy Divinity",
-		"uniques": ["[+1 Faith] per [2] population [in capital]", "[+75]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in foreign cities]"],
+		"uniques": [ "[-33]% Faith cost of generating Great Prophet equivalents", "[+75]% Natural religion spread [in all cities]", "[+25]% Natural religion spread [in foreign cities]"],
 		"cities": ["Pomari","Furima","S'viona","Asanti","Ashtown","Wicting","Wiliman","Sinova","Kilama",
 			"Falvilha","Garbiel Port","Mavieno","Fisioha","Tiehva","Wumnai","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
