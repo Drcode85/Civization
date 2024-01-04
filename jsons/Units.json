@@ -9,6 +9,6 @@
             "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]",
 			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit"
 		],
-		"movement": 5
+		"movement": 4
 	}
 ]
