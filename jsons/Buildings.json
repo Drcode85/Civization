@@ -18,4 +18,11 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "[+2 Faith] [in this city] <after founding a religion>"]
 	}
+	{
+		"name": "Clay House",
+		"production": 1,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": []
+	}
 ]
