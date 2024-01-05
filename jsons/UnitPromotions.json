@@ -1,6 +1,6 @@
 [
   {
     "name": "Holy Order",
-    "uniques": ["Earn [75]% of [Military] unit's [Strength] as [Faith]"]
+    "uniques": ["Earn [50]% of the damage done to [Military] units as [Faith]"],
   }
 ]
