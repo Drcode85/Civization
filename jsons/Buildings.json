@@ -30,6 +30,7 @@
 		"production":
 		"gold"
 		"maintenance":
+		"requiredNearbyImprovedResources":
 		"requiredTech":
 		"uniques": ["Provides [1] []"]
 	}
