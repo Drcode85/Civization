@@ -20,9 +20,9 @@
 	}
 	{
 		"name": "Clay House",
-		"production": 1,
+		"production": 2,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Provides [1] Porcelain"]
+		"uniques": ["Provides [1] Porcelain","","Must be next to [Marsh]"]
 	}
 ]
