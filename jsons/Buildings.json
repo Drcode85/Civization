@@ -28,7 +28,7 @@
 	{
 		"name": "Jewerly Store",
 		"production": 1,
-		"gold" 2,
+		"gold": 2,
 		"maintenance": 2,
 		"requiredNearbyImprovedResources": ["Pearls", "Gems"],
 		"requiredTech": "Currency",
