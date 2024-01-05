@@ -1,4 +1,4 @@
-8[
+[
 	{
 		"name": "Goddess Palace",
 		"faith": 5,
@@ -16,15 +16,15 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "[+2 Faith] [in this city] <after founding a religion>"]
-	}
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "[+2 Faith] [in this city] <after founding a religion>"],
+	},
 	{
 		"name": "Clay House",
 		"production": 2,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Provides [1] [Porcelain]","[+2 Production, +1 Gold] from [Marsh] tiles [in this city]","Must be next to [Marsh]"]
-	}
+		"uniques": ["Provides [1] [Porcelain]","[+2 Production, +1 Gold] from [Marsh] tiles [in this city]","Must be next to [Marsh]"],
+	},
 	{
 		"name": "Jewerly Store",
 		"production": 1,
