@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "Hivmola",
-		"replace": "Longswordsman",
+		"replaces": "Longswordsman",
 		"uniqueTo": "Sactumaria",
 		"promotions": ["Holy Order"],
 		"unitType": "Sword",
