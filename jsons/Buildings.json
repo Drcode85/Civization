@@ -23,6 +23,6 @@
 		"production": 1,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": []
+		"uniques": ["Provides [1] Porcelain"]
 	}
 ]
