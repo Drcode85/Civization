@@ -21,6 +21,6 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit",
-		"promotions": "Holy Order"
+		"promotions": ["Holy Order"]
 	}
 ]
