@@ -35,5 +35,12 @@
 			"Falvilha","Garbiel Port","Mavieno","Fisioha","Tiehva","Valihna","Paul's","Jopesh Town","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Lumina",
+		"leaderName": "Birasma",
+		"adjective": ["Luminas"],
+		"startBias": [""],
+		"preferredVictoryType": "Domination",
 	}
 ]
