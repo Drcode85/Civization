@@ -12,10 +12,15 @@
 	},
 	{
 		"name": "Hivmola",
-		"replace":
-		"uniqueTo":
-		"unitType":
-		"uniques":
-		"movement": 
+		"replace": "Longswordsman",
+		"uniqueTo": "Sactumaria",
+		"unitType": "Sword",
+		"movement": 2,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit",
+		"promotions": 
 	}
 ]
