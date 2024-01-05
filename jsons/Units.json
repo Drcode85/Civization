@@ -14,13 +14,13 @@
 		"name": "Hivmola",
 		"replace": "Longswordsman",
 		"uniqueTo": "Sactumaria",
+		"promotions": ["Holy Order"],
 		"unitType": "Sword",
 		"movement": 2,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit",
-		"promotions": ["Holy Order"]
+		"attackSound": "metalhit"
 	}
 ]
