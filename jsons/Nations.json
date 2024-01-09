@@ -35,39 +35,5 @@
 			"Falvilha","Garbiel Port","Mavieno","Fisioha","Tiehva","Valihna","Paul's","Jopesh Town","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	},
-	{
-		"name": "Lumina",
-		"leaderName": "Birasma",
-		"adjective": ["Luminas"],
-		"startBias": [""],
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Goddess have deemed you as a threat, you must perish for the holiness",
-		"attacked": "You will pay for your sins by attacking us, you sinner!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "Goddess bless you",
-		"neutralLetsHearIt": ["Yes?","Yes tell what you purpose.","My ear is open to listen."],
-		"neutralNo": ["We going to reject it.","I'm sorry but I must refuse ","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What sinner doing here",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "All this fight just cost more suffering",
-		"tradeRequest": "We bestow you our gift for the goddess",
-
-		"outerColor": [110,110,110],
-		"innerColor": [255,255,255],
-		"uniqueName": "Glorious War",
-		"uniques": ["[5]% Faith <upon founding a Religion>", "[+30]"],
-		"cities":
 	}
 ]
