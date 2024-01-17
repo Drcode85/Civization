@@ -50,6 +50,6 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Metallurgy",
-		"uniques": ["Destroyed when the city is captured", "[+18]% Strength <vs [Water] units> for all <[All] units> <when fighting in [City Center] tiles>"]
+		"uniques": ["Destroyed when the city is captured", "[+18]% Strength <vs [Water] units> for all <[All] units> <when fighting in [City center] tiles>"]
 	},
 ]
