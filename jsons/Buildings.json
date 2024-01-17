@@ -34,4 +34,13 @@
 		"requiredTech": "Currency",
 		"uniques": ["Provides [1] [Jewelry]"]
 	}
+		{
+		"name": "Coastal Fortification",
+		"cityStrength": 6,
+		"cityHealth": 22,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arsenal",
+		"requiredTech": "Metallurgy",
+		"uniques": ["Destroyed when the city is captured"]
+	}
 ]
