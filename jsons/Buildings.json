@@ -42,5 +42,14 @@
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Metallurgy",
 		"uniques": ["Destroyed when the city is captured"]
-	}
+	},
+	{
+		"name": "Arsenal",
+		"cityStrength": 6,
+		"cityHealth": 19,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arsenal",
+		"requiredTech": "Metallurgy",
+		"uniques": ["Destroyed when the city is captured", ""]
+	},
 ]
