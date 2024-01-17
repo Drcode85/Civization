@@ -21,7 +21,7 @@
 	{
 		"name": "Clay House",
 		"production": 2,
-		"maintenance": 1,
+		"maintenance": 2,
 		"requiredTech": "Pottery",
 		"uniques": ["Provides [1] [Porcelain]","[+2 Production, +1 Gold] from [Marsh] tiles [in this city]","Must be next to [Marsh]"],
 	},
