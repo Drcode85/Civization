@@ -14,7 +14,7 @@
 		"name": "Hivmola",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Sactumaria",
-		"promotions": ["Holy Order"],
+		"promotions": ["Holy Divide"],
 		"unitType": "Sword",
 		"movement": 2,
 		"requiredTech": "Steel",
