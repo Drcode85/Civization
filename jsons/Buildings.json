@@ -41,6 +41,6 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Metallurgy",
-		"uniques": ["Destroyed when the city is captured", "Must be next to [Coast]", "[+18]% Strength for <[All] units> <vs [Water] units> <when fighting in [City center] tiles>"]
+		"uniques": ["Destroyed when the city is captured", "Must be next to [Coast]", "[+18]% Strength for [Military] units <vs [Water] units> <when fighting in [City center] tiles> [in this city]"]
 	}
 ]
