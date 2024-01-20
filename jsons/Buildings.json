@@ -34,7 +34,7 @@
 		"requiredTech": "Currency",
 		"uniques": ["Provides [1] [Jewelry]"]
 	}
-		{
+	{
 		"name": "Coastal Fortification",
 		"cityStrength": 6,
 		"cityHealth": 22,
@@ -42,5 +42,13 @@
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Metallurgy",
 		"uniques": ["Destroyed when the city is captured", "Must be next to [Coast]", "[+18]% Strength for [Military] units <vs [Water] units> <when fighting in [City center] tiles> [in this city]"]
+	},
+	{
+		"name": "Cheese House",
+		"cost": 100,
+		"food": 2,
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Cattle", "Sheep"],
+		"requiredTech": "Animal Husbandry"
 	}
 ]
