@@ -51,15 +51,4 @@
 		"requiredNearbyImprovedResources": ["Cattle", "Sheep"],
 		"requiredTech": "Animal Husbandry"
 	}
-	{
-		"name": "Not recommend",
-		"cost": 1,
-		"maintenance": 100000
-		"uniques": "[-100 production -100 culture -100 food -100 Science] [in this city]"
-	},
-	{
-		"name": "Fortified Wall",
-		"cost": 150,
-		"uniques":
-	}
 ]
