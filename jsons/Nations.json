@@ -65,7 +65,7 @@
 
 		"outerColor": [110,110,110],
 		"innerColor": [255,255,255],
-		"uniqueName": "",
+		"uniqueName": "Technological",
 		"uniques": ["[+3 Faith, +1 Culture] <after founding a Pantheon>", "[+3 Faith, +1 Culture] <after founding a religion>", "[50%] Natural religion spread [in your cities]"],
 		"cities": ["Pomari","Furima","S'viona","Asanti","Ashtown","Wicting","Wiliman","Sinova","Kilama",
 			"Falvilha","Garbiel Port","Mavieno","Fisioha","Tiehva","Valihna","Paul's","Jopesh Town","Barin","Karilla",
