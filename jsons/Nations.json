@@ -35,4 +35,42 @@
 			"Falvilha","Garbiel Port","Mavieno","Fisioha","Tiehva","Valihna","Paul's","Jopesh Town","Barin","Karilla",
 			"Darem"]
       }
+	{
+		"name": "Republic Federation",
+		"leaderName": "Casdio Markov",
+		"adjective": ["Bantonian"],
+		"startBias": [""],
+		"preferredVictoryType": "",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "You deemed to be a threat for the nation.",
+		"attacked": "You broke our peace relation now you must face our wrath.",
+		"defeated": "Heh, you really a something else.",
+		"introduction": "Hello, I'm Casdio and we welcome you to our Federation with peace.",
+		
+		"neutralHello": "Good morning my freind",
+		"neutralLetsHearIt": ["Tell me what you got? ","Yes I listening","I'm all open"],
+		"neutralNo": ["Sorry we have to reject that request.","Sorry, I must refuse","Sorry, but maybe something better you got?"],
+		"neutralYes": ["I very accept this","Damn, that is good request","Alright I accept"],
+
+		"hateHello": "Hello...",
+		"hateLetsHearIt": ["What?","Just tell me what you?"],
+		"hateNo": ["Sorry, but no","Hell nah","Bruh no way"],
+		"hateYes": ["Ok...","I accept this last time ok. ","Good..."],
+		
+		"afterPeace": "This war is not profitable and consume alot of things.",
+		"tradeRequest": "Hey brother I got this sweet deals.",
+
+		"outerColor": [110,110,110],
+		"innerColor": [255,255,255],
+		"uniqueName": "",
+		"uniques": ["[+3 Faith, +1 Culture] <after founding a Pantheon>", "[+3 Faith, +1 Culture] <after founding a religion>", "[50%] Natural religion spread [in your cities]"],
+		"cities": ["Pomari","Furima","S'viona","Asanti","Ashtown","Wicting","Wiliman","Sinova","Kilama",
+			"Falvilha","Garbiel Port","Mavieno","Fisioha","Tiehva","Valihna","Paul's","Jopesh Town","Barin","Karilla",
+			"Darem"]
+      }
 ]
+
+
